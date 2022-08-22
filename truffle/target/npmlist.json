@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"truffle","dependencies":{"@truffle/hdwallet-provider":{"version":"2.0.12"},"chai-as-promised":{"version":"7.1.1"},"chai-bn":{"version":"0.3.1"},"chai":{"version":"4.3.6"},"dotenv":{"version":"16.0.1"}}}
