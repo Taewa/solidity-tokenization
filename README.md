@@ -1,3 +1,8 @@
+# Solidity tokenization practice project
+1. Allowed token to specific accounts
+1. Publish CAPPU token
+1. CAPPU token is counted as "wei" unit
+
 # React Truffle Box
 
 This box comes with everything you need to start using Truffle to write, compile, test, and deploy smart contracts, and interact with them from a React app.
